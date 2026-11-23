@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Paradox
 
-<!--
-**paradoxsit4-oss/paradoxsit4-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | AI & ML Student
 
-Here are some ideas to get you started:
+- 🎓 Engineering Student
+- 🌱 Currently learning Python, C, Java and DSA
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💡 Exploring new technologies and building projects
+- 🎯 Goal: Become a skilled software developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+- C
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+### 📊 GitHub Stats
+Thanks for visiting my profile! 😊
+
+### 🤝 Connect With Me
+Let's learn and grow together!
